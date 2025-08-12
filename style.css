@@ -44,4 +44,9 @@ border:gome;
 html,blody{
       margin:0;
   paddird:0;
-}
+  {
+* { 
+  margin:0;
+  padding:0; 
+  box-sizing:border-box
+  {
